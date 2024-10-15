@@ -1,0 +1,8 @@
+yt_video_download:
+  url: https://www.youtube.com/watch?v=kibx5BR6trA
+  output_path: downloads
+
+eleven_labs:
+  voice_id: 'Xb7hH8MSUJpSbSDYk0k2'
+  
+
